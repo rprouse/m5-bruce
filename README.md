@@ -1,3 +1,7 @@
+:no_entry: [DEPRECATED] Active at https://github.com/pr3y/Bruce
+
+
+-------------------
 # M5-Bruce
 Firmware for offensive pranks to Cardputer
 
